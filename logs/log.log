@@ -1,0 +1,228 @@
+2020-02-21 21:51:38.848 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:38.848 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:38.848 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:38.848 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:38.858 [Thread-3] INFO   - Locked accounts: 8
+2020-02-21 21:51:38.858 [Thread-2] INFO   - Locked accounts: 8
+2020-02-21 21:51:38.858 [Thread-0] INFO   - Locked accounts: 8
+2020-02-21 21:51:38.858 [Thread-1] INFO   - Locked accounts: 8
+2020-02-21 21:51:45.752 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:45.753 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:51:45.993 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:45.994 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:51:46.856 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:46.856 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:51:47.000 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:47.000 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:51:52.784 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:52.784 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:51:52.834 [Thread-0] INFO   - Sum of all balances is 141779549
+2020-02-21 21:51:52.835 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:51:54.928 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:54.928 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:51:56.115 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:51:56.115 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:00.146 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:00.146 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:00.669 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:00.670 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:02.212 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:02.212 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:04.804 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:04.805 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:07.486 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:07.487 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:07.762 [Thread-1] INFO   - Sum of all balances is 141778389
+2020-02-21 21:52:07.762 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:09.994 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:09.994 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:13.044 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:13.045 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:14.393 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:14.394 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:15.302 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:15.302 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:17.477 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:17.477 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:21.503 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:21.504 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:21.858 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:21.859 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:22.392 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:22.393 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:25.561 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:25.561 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:29.122 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:29.122 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:29.152 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:29.152 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:30.067 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:30.067 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:33.582 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:33.583 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:36.415 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:36.416 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:37.091 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:37.092 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:37.760 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:37.760 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:41.700 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:41.700 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:43.680 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:43.681 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:44.632 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:44.632 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:46.099 [Thread-3] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:46.100 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:49.444 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:49.445 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:50.822 [Thread-0] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:50.822 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 21:52:52.079 [Thread-1] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:52.079 [Thread-1] INFO   - Locked accounts: 582
+2020-02-21 21:52:55.083 [Thread-3] INFO   - Sum of all balances is 141776063
+2020-02-21 21:52:55.083 [Thread-3] INFO   - Locked accounts: 582
+2020-02-21 21:52:57.200 [Thread-2] INFO   - Sum of all balances is 141778628
+2020-02-21 21:52:57.200 [Thread-2] INFO   - Locked accounts: 582
+2020-02-21 21:52:57.998 [Thread-0] INFO   - Sum of all balances is 141775069
+2020-02-21 21:52:57.998 [Thread-0] INFO   - Locked accounts: 582
+2020-02-21 22:59:53.880 [Thread-0] INFO   - Sum of all balances is 140267787
+2020-02-21 22:59:53.880 [Thread-3] INFO   - Sum of all balances is 140267787
+2020-02-21 22:59:53.880 [Thread-2] INFO   - Sum of all balances is 140267787
+2020-02-21 22:59:53.880 [Thread-1] INFO   - Sum of all balances is 140267787
+2020-02-21 22:59:53.902 [Thread-0] INFO   - Locked accounts: 6
+2020-02-21 22:59:53.902 [Thread-1] INFO   - Locked accounts: 6
+2020-02-21 22:59:53.902 [Thread-2] INFO   - Locked accounts: 6
+2020-02-21 22:59:53.902 [Thread-3] INFO   - Locked accounts: 6
+2020-02-21 23:00:02.275 [Thread-1] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:02.276 [Thread-1] INFO   - Locked accounts: 615
+2020-02-21 23:00:02.710 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:02.712 [Thread-0] INFO   - Locked accounts: 615
+2020-02-21 23:00:02.719 [Thread-2] INFO   - Sum of all balances is 140280906
+2020-02-21 23:00:02.720 [Thread-2] INFO   - Locked accounts: 615
+2020-02-21 23:00:03.129 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:03.131 [Thread-3] INFO   - Locked accounts: 615
+2020-02-21 23:00:03.112 [Thread-1] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:03.112 [Thread-0] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:03.112 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:03.112 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:03.134 [Thread-0] INFO   - Locked accounts: 7
+2020-02-21 23:00:03.134 [Thread-3] INFO   - Locked accounts: 7
+2020-02-21 23:00:03.134 [Thread-2] INFO   - Locked accounts: 7
+2020-02-21 23:00:03.138 [Thread-1] INFO   - Locked accounts: 13
+2020-02-21 23:00:11.786 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:11.788 [Thread-0] INFO   - Locked accounts: 615
+2020-02-21 23:00:12.193 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:12.194 [Thread-3] INFO   - Locked accounts: 617
+2020-02-21 23:00:12.422 [Thread-1] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:12.423 [Thread-1] INFO   - Locked accounts: 617
+2020-02-21 23:00:12.564 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:12.565 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:00:12.661 [Thread-1] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:12.662 [Thread-1] INFO   - Locked accounts: 611
+2020-02-21 23:00:12.801 [Thread-2] INFO   - Sum of all balances is 140283749
+2020-02-21 23:00:12.802 [Thread-2] INFO   - Locked accounts: 617
+2020-02-21 23:00:13.755 [Thread-0] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:13.756 [Thread-0] INFO   - Locked accounts: 611
+2020-02-21 23:00:13.798 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:13.799 [Thread-3] INFO   - Locked accounts: 611
+2020-02-21 23:00:20.992 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:20.993 [Thread-0] INFO   - Locked accounts: 617
+2020-02-21 23:00:21.630 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:21.632 [Thread-3] INFO   - Locked accounts: 617
+2020-02-21 23:00:21.683 [Thread-1] INFO   - Sum of all balances is 140284896
+2020-02-21 23:00:21.685 [Thread-1] INFO   - Locked accounts: 617
+2020-02-21 23:00:21.751 [Thread-1] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:21.753 [Thread-1] INFO   - Locked accounts: 611
+2020-02-21 23:00:22.132 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:22.133 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:00:22.505 [Thread-2] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:22.506 [Thread-2] INFO   - Locked accounts: 617
+2020-02-21 23:00:23.621 [Thread-0] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:23.622 [Thread-0] INFO   - Locked accounts: 611
+2020-02-21 23:00:23.673 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:23.674 [Thread-3] INFO   - Locked accounts: 611
+2020-02-21 23:00:29.728 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:29.729 [Thread-3] INFO   - Locked accounts: 617
+2020-02-21 23:00:29.968 [Thread-1] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:29.976 [Thread-1] INFO   - Locked accounts: 611
+2020-02-21 23:00:30.386 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:30.387 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:00:31.059 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:31.067 [Thread-0] INFO   - Locked accounts: 617
+2020-02-21 23:00:31.904 [Thread-2] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:31.906 [Thread-2] INFO   - Locked accounts: 617
+2020-02-21 23:00:31.937 [Thread-1] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:31.938 [Thread-1] INFO   - Locked accounts: 617
+2020-02-21 23:00:34.283 [Thread-0] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:34.284 [Thread-0] INFO   - Locked accounts: 611
+2020-02-21 23:00:34.330 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:34.331 [Thread-3] INFO   - Locked accounts: 611
+2020-02-21 23:00:38.974 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:38.990 [Thread-3] INFO   - Locked accounts: 617
+2020-02-21 23:00:39.741 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:39.742 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:00:39.751 [Thread-1] INFO   - Sum of all balances is 142730176
+2020-02-21 23:00:39.751 [Thread-1] INFO   - Locked accounts: 611
+2020-02-21 23:00:40.969 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:40.971 [Thread-0] INFO   - Locked accounts: 617
+2020-02-21 23:00:41.485 [Thread-2] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:41.486 [Thread-2] INFO   - Locked accounts: 617
+2020-02-21 23:00:41.787 [Thread-1] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:41.788 [Thread-1] INFO   - Locked accounts: 617
+2020-02-21 23:00:44.694 [Thread-0] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:44.695 [Thread-0] INFO   - Locked accounts: 611
+2020-02-21 23:00:44.984 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:44.986 [Thread-3] INFO   - Locked accounts: 611
+2020-02-21 23:00:48.281 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:48.282 [Thread-3] INFO   - Locked accounts: 617
+2020-02-21 23:00:49.089 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:49.090 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:00:49.324 [Thread-1] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:49.325 [Thread-1] INFO   - Locked accounts: 611
+2020-02-21 23:00:50.665 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:50.667 [Thread-0] INFO   - Locked accounts: 617
+2020-02-21 23:00:50.881 [Thread-2] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:50.883 [Thread-2] INFO   - Locked accounts: 617
+2020-02-21 23:00:51.647 [Thread-1] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:51.648 [Thread-1] INFO   - Locked accounts: 617
+2020-02-21 23:00:54.612 [Thread-0] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:54.613 [Thread-0] INFO   - Locked accounts: 611
+2020-02-21 23:00:55.272 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:55.273 [Thread-3] INFO   - Locked accounts: 611
+2020-02-21 23:00:57.660 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:00:57.661 [Thread-3] INFO   - Locked accounts: 617
+2020-02-21 23:00:58.694 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:00:58.696 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:00:58.960 [Thread-1] INFO   - Sum of all balances is 142733201
+2020-02-21 23:00:58.961 [Thread-1] INFO   - Locked accounts: 611
+2020-02-21 23:01:00.235 [Thread-2] INFO   - Sum of all balances is 140283579
+2020-02-21 23:01:00.236 [Thread-2] INFO   - Locked accounts: 617
+2020-02-21 23:01:00.844 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:01:00.845 [Thread-0] INFO   - Locked accounts: 617
+2020-02-21 23:01:01.898 [Thread-1] INFO   - Sum of all balances is 140283579
+2020-02-21 23:01:01.899 [Thread-1] INFO   - Locked accounts: 617
+2020-02-21 23:01:04.833 [Thread-0] INFO   - Sum of all balances is 142730142
+2020-02-21 23:01:04.834 [Thread-0] INFO   - Locked accounts: 611
+2020-02-21 23:01:05.598 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:01:05.600 [Thread-3] INFO   - Locked accounts: 611
+2020-02-21 23:01:07.269 [Thread-3] INFO   - Sum of all balances is 140283579
+2020-02-21 23:01:07.270 [Thread-3] INFO   - Locked accounts: 617
+2020-02-21 23:01:08.025 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:01:08.026 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:01:08.638 [Thread-1] INFO   - Sum of all balances is 142732141
+2020-02-21 23:01:08.639 [Thread-1] INFO   - Locked accounts: 611
+2020-02-21 23:01:09.795 [Thread-2] INFO   - Sum of all balances is 140283579
+2020-02-21 23:01:09.796 [Thread-2] INFO   - Locked accounts: 617
+2020-02-21 23:01:10.751 [Thread-0] INFO   - Sum of all balances is 140283579
+2020-02-21 23:01:10.752 [Thread-0] INFO   - Locked accounts: 617
+2020-02-21 23:01:11.956 [Thread-1] INFO   - Sum of all balances is 140283579
+2020-02-21 23:01:11.957 [Thread-1] INFO   - Locked accounts: 617
+2020-02-21 23:01:15.872 [Thread-0] INFO   - Sum of all balances is 142732141
+2020-02-21 23:01:15.873 [Thread-0] INFO   - Locked accounts: 611
+2020-02-21 23:01:16.591 [Thread-2] INFO   - Sum of all balances is 142732141
+2020-02-21 23:01:16.592 [Thread-2] INFO   - Locked accounts: 611
+2020-02-21 23:01:17.048 [Thread-3] INFO   - Sum of all balances is 142732141
+2020-02-21 23:01:17.049 [Thread-3] INFO   - Locked accounts: 611
+2020-02-21 23:01:17.303 [Thread-1] INFO   - Sum of all balances is 142732141
+2020-02-21 23:01:17.304 [Thread-1] INFO   - Locked accounts: 611
